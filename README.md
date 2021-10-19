@@ -4,6 +4,8 @@
     
 This code completes an HTML file using information granted by command line using ```inquirer```, a helpful ```npm package``` that runs in ```Nodejs```.  It allows to build a development team, using ES6 ```classes```, in this case there is base class called ```Employee```, and three classes extends from it, ```Manager```, ```Engineer``` and ```Intern```, all with diferents attributes and methods.
 
+[Demo video](https://watch.screencastify.com/v/xG0Zmhl9foXruPBmU26M)
+
 ## Table of content
 * [Description](#description)
 * [Instalation](#installation)
