@@ -23,6 +23,10 @@ npm i
 Install npm dependencies, then run using ```Node.js``` the file ```index.js```.    
 
 
+## Working Code
+
+![working code](./assets/code-output.jpg)
+
 ## Questions
     
 [Juan Jose Ramirez Github profile](https://github.com/JuanjoRamirez262)
